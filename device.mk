@@ -890,3 +890,6 @@ include hardware/google/pixel/thermal/device.mk
 
 # power HAL
 -include hardware/google/pixel/power-libperfmgr/aidl/device.mk
+
+# include ProtonAOSP vendor GApps
+$(call inherit-product-if-exists, vendor/gapps/common/common-vendor.mk)
