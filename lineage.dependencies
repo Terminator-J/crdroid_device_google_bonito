@@ -1,10 +1,18 @@
 [
   {
-    "repository": "android_kernel_google_msm-4.9",
-    "target_path": "kernel/google/msm-4.9"
+    "remote": "ezio84",
+    "repository": "ezio84/abc_kernel_google_bluecross",
+    "target_path": "kernel/google/abc-bluecross",
+    "branch": "r"
   },
   {
     "repository": "android_packages_apps_ElmyraService",
     "target_path": "packages/apps/ElmyraService"
+  }
+  {
+    "remote": "abhizala",
+    "repository": "abhizala/android_vendor_google",
+    "target_path": "vendor/google",
+    "branch": "android_11"
   }
 ]
