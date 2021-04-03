@@ -1,14 +1,14 @@
 [
   {
-    "remote": "ezio84",
-    "repository": "ezio84/abc_kernel_google_bluecross",
-    "target_path": "kernel/google/abc-bluecross",
-    "branch": "r"
-  },
-  {
     "repository": "android_packages_apps_ElmyraService",
     "target_path": "packages/apps/ElmyraService"
-  }
+  },
+  {
+    "remote": "terminatorj",
+    "repository": "Terminator-J/crdroid_kernel_google_sargito",
+    "target_path": "kernel/google/sargito",
+    "branch": "11.0"
+  },
   {
     "remote": "abhizala",
     "repository": "abhizala/android_vendor_google",
